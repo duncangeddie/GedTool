@@ -1,3 +1,12 @@
-#is_string.py
-true_return = True
-false_return = False
+#general
+true_value = True
+false_value = False
+
+#string comparisons
+empty_strings = [
+    "",
+    '',
+    """""",
+    '''''',
+    str()
+]
